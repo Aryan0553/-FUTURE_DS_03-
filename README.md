@@ -37,4 +37,3 @@ Which course aspects are performing best?
 Which areas require improvement?
 Are participants willing to recommend the course?
 What insights can help improve future course delivery?
-
