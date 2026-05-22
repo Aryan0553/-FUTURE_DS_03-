@@ -35,5 +35,5 @@ teaching effectiveness, and student engagement. Manual evaluation of feedback is
 What is the overall satisfaction level of survey participants?
 Which course aspects are performing best?
 Which areas require improvement?
-Are participants willing to recommend the course?
+Are participants willing to recommend the course? 
 What insights can help improve future course delivery? 
